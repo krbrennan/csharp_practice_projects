@@ -2,6 +2,7 @@ C:\Users\Kelvin\Desktop\Programming\personal_cSharp\Sorting and Searching Arrays
 C:\Users\Kelvin\Desktop\Programming\personal_cSharp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\net8.0\Sorting and Searching Arrays.AssemblyInfoInputs.cache
 C:\Users\Kelvin\Desktop\Programming\personal_cSharp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\net8.0\Sorting and Searching Arrays.AssemblyInfo.cs
 C:\Users\Kelvin\Desktop\Programming\personal_cSharp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\net8.0\Sorting and Searching Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\net8.0\Sorting and Searching Arrays.sourcelink.json
 C:\Users\Kelvin\Desktop\Programming\personal_cSharp\Sorting and Searching Arrays\Sorting and Searching Arrays\bin\Debug\net8.0\Sorting and Searching Arrays.exe
 C:\Users\Kelvin\Desktop\Programming\personal_cSharp\Sorting and Searching Arrays\Sorting and Searching Arrays\bin\Debug\net8.0\Sorting and Searching Arrays.deps.json
 C:\Users\Kelvin\Desktop\Programming\personal_cSharp\Sorting and Searching Arrays\Sorting and Searching Arrays\bin\Debug\net8.0\Sorting and Searching Arrays.runtimeconfig.json

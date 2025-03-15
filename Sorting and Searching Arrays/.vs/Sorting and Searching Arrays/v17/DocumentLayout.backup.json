@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Kelvin\\Desktop\\Programming\\personal_cSharp\\Sorting and Searching Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DDD7CD1-221C-4F28-A154-2F267E2D4296}|Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj|c:\\users\\kelvin\\desktop\\programming\\personal_csharp\\sorting and searching arrays\\sorting and searching arrays\\sorting and searching arrays.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1DDD7CD1-221C-4F28-A154-2F267E2D4296}|Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj|solutionrelative:sorting and searching arrays\\sorting and searching arrays.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1DDD7CD1-221C-4F28-A154-2F267E2D4296}|Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj|c:\\users\\kelvin\\desktop\\programming\\personal_csharp\\sorting and searching arrays\\sorting and searching arrays\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDD7CD1-221C-4F28-A154-2F267E2D4296}|Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj|solutionrelative:sorting and searching arrays\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DDD7CD1-221C-4F28-A154-2F267E2D4296}|Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj|c:\\users\\kelvin\\desktop\\programming\\personal_csharp\\sorting and searching arrays\\sorting and searching arrays\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDD7CD1-221C-4F28-A154-2F267E2D4296}|Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj|solutionrelative:sorting and searching arrays\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DDD7CD1-221C-4F28-A154-2F267E2D4296}|Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj|c:\\users\\kelvin\\desktop\\programming\\personal_csharp\\sorting and searching arrays\\sorting and searching arrays\\sorting and searching arrays.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DDD7CD1-221C-4F28-A154-2F267E2D4296}|Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj|solutionrelative:sorting and searching arrays\\sorting and searching arrays.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Sorting and Searching Arrays",
-              "DocumentMoniker": "C:\\Users\\Kelvin\\Desktop\\Programming\\personal_cSharp\\Sorting and Searching Arrays\\Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj",
-              "RelativeDocumentMoniker": "Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj",
-              "ToolTip": "C:\\Users\\Kelvin\\Desktop\\Programming\\personal_cSharp\\Sorting and Searching Arrays\\Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj",
-              "RelativeToolTip": "Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-15T17:43:56.557Z",
+              "Title": "Sorting.cs",
+              "DocumentMoniker": "C:\\Users\\Kelvin\\Desktop\\Programming\\personal_cSharp\\Sorting and Searching Arrays\\Sorting and Searching Arrays\\Sorting.cs",
+              "RelativeDocumentMoniker": "Sorting and Searching Arrays\\Sorting.cs",
+              "ToolTip": "C:\\Users\\Kelvin\\Desktop\\Programming\\personal_cSharp\\Sorting and Searching Arrays\\Sorting and Searching Arrays\\Sorting.cs",
+              "RelativeToolTip": "Sorting and Searching Arrays\\Sorting.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:10:10.547Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -58,16 +54,20 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Kelvin\\Desktop\\Programming\\personal_cSharp\\Sorting and Searching Arrays\\Sorting and Searching Arrays\\Class1.cs",
-              "RelativeDocumentMoniker": "Sorting and Searching Arrays\\Class1.cs",
-              "ToolTip": "C:\\Users\\Kelvin\\Desktop\\Programming\\personal_cSharp\\Sorting and Searching Arrays\\Sorting and Searching Arrays\\Class1.cs",
-              "RelativeToolTip": "Sorting and Searching Arrays\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T17:28:59.982Z",
+              "Title": "Sorting and Searching Arrays.csproj",
+              "DocumentMoniker": "C:\\Users\\Kelvin\\Desktop\\Programming\\personal_cSharp\\Sorting and Searching Arrays\\Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj",
+              "RelativeDocumentMoniker": "Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj",
+              "ToolTip": "C:\\Users\\Kelvin\\Desktop\\Programming\\personal_cSharp\\Sorting and Searching Arrays\\Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj",
+              "RelativeToolTip": "Sorting and Searching Arrays\\Sorting and Searching Arrays.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T17:43:56.557Z",
               "EditorCaption": ""
             },
             {

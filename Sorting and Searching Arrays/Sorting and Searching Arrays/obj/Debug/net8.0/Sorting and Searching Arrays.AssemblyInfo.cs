@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sorting and Searching Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19d1f14d69d8c06930aaa1c2a3cb4762ecc8f14f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92bdcd272bbf6b28fcb1594e4079cc9bc5ccfa26")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sorting and Searching Arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sorting and Searching Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
