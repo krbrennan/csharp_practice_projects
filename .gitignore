@@ -1,0 +1,20 @@
+# Ignore GitHub Copilot indices
+*.copilot
+
+# Ignore Visual Studio specific files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/personal_cSharp/FileContentIndex/*
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore other temporary files
+*.log
+*.tmp
+*.temp
