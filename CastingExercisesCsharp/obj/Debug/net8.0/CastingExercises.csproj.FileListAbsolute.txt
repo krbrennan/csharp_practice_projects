@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\obj\Debug\net8.0\CastingExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\obj\Debug\net8.0\CastingExercises.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\obj\Debug\net8.0\CastingExercises.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\obj\Debug\net8.0\CastingExercises.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\obj\Debug\net8.0\CastingExercises.sourcelink.json
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\bin\Debug\net8.0\CastingExercises.exe
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\bin\Debug\net8.0\CastingExercises.deps.json
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\bin\Debug\net8.0\CastingExercises.runtimeconfig.json
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\bin\Debug\net8.0\CastingExercises.dll
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\bin\Debug\net8.0\CastingExercises.pdb
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\obj\Debug\net8.0\CastingExercises.dll
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\obj\Debug\net8.0\refint\CastingExercises.dll
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\obj\Debug\net8.0\CastingExercises.pdb
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\obj\Debug\net8.0\CastingExercises.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\Programming\personal_cSharp\CastingExercisesCsharp\obj\Debug\net8.0\ref\CastingExercises.dll
