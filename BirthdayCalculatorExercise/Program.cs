@@ -88,28 +88,46 @@ namespace Birthday
         }
 
 
-        //public void DisplayPeople()
-        //{
-        //    // this will clear the console, get all the People objects, display on each line, and when the user navigates the names with arrow keys then the name selected will have a highlighted color, and when enter is clicked that person will be deleted from the records
+        public void DisplayPeople()
+        {
+            // this will clear the console, get all the People objects, display on each line, and when the user navigates the names with arrow keys then the name selected will have a highlighted color, and when enter is clicked that person will be deleted from the records
 
-        //    //List<Person> peopleList = _people.ToList();
+            List<Person> peopleList = _people.Values.ToList();
 
 
-        //    int selectedIndex = 0;
+            int selectedIndex = 0;
+            ConsoleKeyInfo keyPressInfo;
 
-        //    Console.Clear();
-        //    for (int i = 0; i < _people.Count; i++)
-        //    {
-        //        if(i == selectedIndex)
-        //        {
-        //            Console.BackgroundColor = ConsoleColor.Green;
-        //            Console.ForegroundColor = ConsoleColor.DarkMagenta;
-        //        }
-        //        Console.WriteLine(peopleList[i]);
-        //        Console.ResetColor();
-        //    }
-        //    Console.ReadLine();
-        //}
+            do
+            {
+                Console.Clear();
+                for (int i = 0; i < _people.Count; i++)
+                {
+                    if (i == selectedIndex)
+                    {
+                        Console.BackgroundColor = ConsoleColor.Green;
+                        Console.ForegroundColor = ConsoleColor.DarkMagenta;
+                    }
+                    Console.WriteLine($"{peopleList[i]._name} <==> {peopleList[i]._birthday}");
+                    Console.ResetColor();
+                }
+
+                keyPressInfo = Console.ReadKey();
+
+                if (keyPressInfo.Key == ConsoleKey.DownArrow)
+                {
+                    selectedIndex = (selectedIndex == peopleList.Count - 1) ? 0 : selectedIndex + 1;
+                } else if(keyPressInfo.Key == ConsoleKey.UpArrow)
+                {
+                    selectedIndex = (selectedIndex == 0) ? selectedIndex = peopleList.Count - 1 : selectedIndex -= 1;
+                }
+                var selectedPerson = _people.ElementAt(selectedIndex);
+                // can use index to find and delete person since people have a key of their ID
+                _people.Remove(selectedIndex);
+            } while (keyPressInfo.Key != ConsoleKey.Enter);
+
+                Console.ReadLine();
+        }
 
 
 
@@ -142,8 +160,8 @@ namespace Birthday
                 ReadNames();
             } else if(task == "3")
             {
-                //DisplayPeople();
-                RemovePerson();
+                DisplayPeople();
+                //RemovePerson();
             } else if(task == "69")
             {
                 //return false;
