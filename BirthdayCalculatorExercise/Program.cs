@@ -2,6 +2,7 @@
 
 using Birthday;
 using System;
+using System.Collections.Generic;
 
 // This jawn will run a console app
 // it will first ask the user if they would like to see all names and birthdays, or add a name and a birthday.
@@ -48,6 +49,7 @@ namespace Birthday
             //_people.Add(new Person(personName, birthday));
             //_people[personName] = birthday;
             _people.Add(nextId, new Person(personName, birthday));
+            nextId = nextId += 1;
         }
 
         public void ReadNames()
@@ -120,10 +122,14 @@ namespace Birthday
                 } else if(keyPressInfo.Key == ConsoleKey.UpArrow)
                 {
                     selectedIndex = (selectedIndex == 0) ? selectedIndex = peopleList.Count - 1 : selectedIndex -= 1;
+                } else if(keyPressInfo.Key == ConsoleKey.Enter)
+                {
+                    var personToDeleteName = _people.FirstOrDefault(p => p.Value._name == peopleList[selectedIndex]._name);
+                    _people.Remove(personToDeleteName.Key);
                 }
-                var selectedPerson = _people.ElementAt(selectedIndex);
-                // can use index to find and delete person since people have a key of their ID
-                _people.Remove(selectedIndex);
+                //var selectedPerson = _people.ElementAt(selectedIndex);
+                // can use index to find and delete person since people have a key of their ID ----- that wont work because as the list is pruned the indexes for remaining people won't match up to the ID of the people in the shared _people list. Instead, take their name and do a LINQ lookup to rm them
+                //_people.Remove(selectedIndex);
             } while (keyPressInfo.Key != ConsoleKey.Enter);
 
                 Console.ReadLine();
